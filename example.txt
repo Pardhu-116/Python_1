@@ -1,3 +1,6 @@
+import mymodule
+mymodule.a("Google","Facebook")
+
 import datetime
 x=datetime.datetime.now()
 print(x.month)
